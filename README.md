@@ -1,4 +1,4 @@
 # project-drafts
 Rascunhos de códigos e projetos.
 
-![image](office.jpeg)
+![image](https://github.com/ericapetersc/project-drafts/blob/main/office.jpg?raw=true)
